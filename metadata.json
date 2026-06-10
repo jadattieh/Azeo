@@ -1,0 +1,6 @@
+{
+  "name": "Azeo Catering",
+  "description": "Exquisite Lebanese Catering for Weddings, Family Gatherings, and Festive Events in Lebanon with a bespoke AI menu planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

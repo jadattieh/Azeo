@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rev-1",
+    "name": "Cherihane Khoury",
+    "rating": 5,
+    "comment": "The food presentation was amazing. Top Chef quality! Azeo Catering made our corporate gala absolutely unforgettable. Highly recommend the Dinde aux Marrons!",
+    "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuCe104jvjn5etmTzUk6o-gaKXib53D2N0ryx9YmLL3QQNWuyCy7QEmVS0Sz3D_snrIaFUwMofoOiPzftrkf8AY8OkrXdCvOlYrTw3qMhCYP4m4LYdpyCVAVw-_BuVJQYf518li0TBT274pUlwo5itZ-PWNhyaxtpi8pRSfTGkxVwiFEesp-tBdNQCOQwB_Kw8QCe9YCnfZwamcIpeYrjBIvzttoc2uQ8XTpY5aB3_X4SFuP7bFhpsJA7TGIteve9hk2M2ufhf6QGuXn",
+    "createdAt": "06/01/2026"
+  },
+  {
+    "id": "rev-2",
+    "name": "Jean-Pierre Attieh",
+    "rating": 5,
+    "comment": "By far the finest Lebanese catering service. The canapés and salmon tartare éclair are pure culinary art! Outstanding service from Ghazir to Beirut.",
+    "avatar": "",
+    "createdAt": "06/04/2026"
+  },
+  {
+    "id": "rev-3",
+    "name": "Nayla Massaad",
+    "rating": 5,
+    "comment": "We ordered the Selection Festive - Formule 1 for a 12-person family celebration. Extremely generous, beautiful styling, and absolutely delicious hummus trio. Marhaba, Azeo!",
+    "avatar": "",
+    "createdAt": "06/08/2026"
+  }
+]
