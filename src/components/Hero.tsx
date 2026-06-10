@@ -6,9 +6,9 @@ interface HeroProps {
 }
 
 const HERO_IMAGES = [
-  "./src/assets/images/salad_avocado_platter_1781084024321.png",
-  "/src/assets/images/charcuterie_terrine_1781084040127.png",
-  "/src/assets/images/buffet_chafing_dishes_1781084058296.png"
+  "/images/salad_avocado_platter_1781084024321.png",
+  "/images/charcuterie_terrine_1781084040127.png",
+  "/images/buffet_chafing_dishes_1781084058296.png"
 ];
 
 export default function Hero({ onOpenPlanner }: HeroProps) {
