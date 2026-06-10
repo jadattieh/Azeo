@@ -1,15 +1,21 @@
 import { useState, useEffect } from "react";
 import { Sparkles, ArrowRight, Phone } from "lucide-react";
 
+import saladImage from "../assets/images/salad_avocado_platter_1781084024321.png";
+import charcuterieImage from "../assets/images/charcuterie_terrine_1781084040127.png";
+import buffetImage from "../assets/images/buffet_chafing_dishes_1781084058296.png";
+
+
 interface HeroProps {
   onOpenPlanner: () => void;
 }
 
 const HERO_IMAGES = [
-  "/images/salad_avocado_platter_1781084024321.png",
-  "/images/charcuterie_terrine_1781084040127.png",
-  "/images/buffet_chafing_dishes_1781084058296.png"
+  saladImage,
+  charcuterieImage,
+  buffetImage
 ];
+
 
 export default function Hero({ onOpenPlanner }: HeroProps) {
   const [currentIdx, setCurrentIdx] = useState(0);
